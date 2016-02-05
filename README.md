@@ -1,8 +1,8 @@
 # wiredtiger-tickets
 Get the number of read/write tickets available to the WiredTiger storage engine.
 
-Read/Write tickets represent the number of concurrent read/write operations allowed into the storage engine.
-When this value reaches zero new read/write requests may queue until a read/write ticket becomes available.
+Read/Write tickets represent the number of concurrent read/write operations allowed into the storage engine.  
+When this value reaches zero new read/write requests may queue until a read/write ticket becomes available.  
 Read more on [MongoDB](https://docs.mongodb.org/manual/)
 
 ## Install
