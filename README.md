@@ -28,7 +28,7 @@ wrTickets('mongodb://localhost:27017/', (err, data) => {
 
 ##### url(required)
 
-Type: `string`
+Type: `string`  
 Default: `null`
 
 Give it a mongodb URI
