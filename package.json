@@ -1,0 +1,37 @@
+{
+  "name": "wiredtiger-tickets",
+  "version": "0.0.1",
+  "description": "Get the number of read/write tickets available to the WiredTiger storage engine.",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/sohje/wiredtiger-tickets.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Nikolay Spiridonov",
+    "email": "nikolay.spiridonov@gmail.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "tickets",
+    "wiredtiger",
+    "client",
+    "storageEngine",
+    "storage",
+    "protocol",
+    "server",
+    "mongodb",
+    "mongo",
+    "mongod",
+    "deploy",
+    "deployment"
+  ],
+  "dependencies": {
+    "mongodb": "^2.1.0"
+  }
+}
