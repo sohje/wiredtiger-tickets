@@ -1,4 +1,7 @@
 # wiredtiger-tickets
+
+[![npm version](https://badge.fury.io/js/wiredtiger-tickets.svg)](https://badge.fury.io/js/wiredtiger-tickets)
+
 Get the number of read/write tickets available to the WiredTiger storage engine.
 
 Read/Write tickets represent the number of concurrent read/write operations allowed into the storage engine.  
