@@ -1,4 +1,5 @@
 # wiredtiger-tickets
+[![Build Status](https://travis-ci.org/sohje/wiredtiger-tickets.svg?branch=master)](https://travis-ci.org/sohje/wiredtiger-tickets)
 
 [![npm version](https://badge.fury.io/js/wiredtiger-tickets.svg)](https://badge.fury.io/js/wiredtiger-tickets)
 
