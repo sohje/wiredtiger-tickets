@@ -1,4 +1,4 @@
-var wt = require('..')
+var wt = require('../index.js')
 var assert = require('assert')
 
 describe('WiredTiger', function() {
