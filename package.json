@@ -1,6 +1,6 @@
 {
   "name": "wiredtiger-tickets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get the number of read/write tickets available to the WiredTiger storage engine.",
   "license": "MIT",
   "repository": {
@@ -33,5 +33,11 @@
   ],
   "dependencies": {
     "mongodb": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha test/"
   }
 }
